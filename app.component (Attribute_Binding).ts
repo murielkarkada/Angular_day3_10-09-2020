@@ -1,8 +1,7 @@
 import { Component } from '@angular/core';
-
-/* Property Binding is also one-way data binding technique.
-we bind property of DOM element to a field which is a defined proprty in our component TS code
-*/
+/*ATTRIBUTE BINDING is required in those cases when HTML attribute has no corresponding DOM property
+  HTML attribute value contains initial value whereas DOM property value contains current value
+ */
 @Component({
   selector: 'app-root',
   template:
