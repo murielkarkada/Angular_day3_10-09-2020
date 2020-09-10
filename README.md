@@ -1,7 +1,5 @@
-# Angular
-This repository contains the angular tasks performed during the training
-
-Data Bindinng:
+# Angular 10/09/2020
+DATA BINDING:
 three types-
 1.one way-component to template
 2.one way- template to component
@@ -10,11 +8,12 @@ three types-
 INTERPOLATION:Interpolation is one way of data binding that is used to transfer data from TS code to HTML template.
 It uses curly braces,inside which the property/expression is written.
 
-
 PROPERTY BINDING: Property Binding is also one-way data binding technique.
 we bind property of DOM element to a field which is a defined proprty in our component TS code
 
 ATTRIBUTE BINDING is required in those cases when HTML attribute has no corresponding DOM property
-HTML attribute value contains initial value whereas DOM property value contains current value
+HTML attribute value contains initial value whereas DOM property value contains current value.
+Interpolation & PB deal with binding component class properties to HTML element properties ,not attributes.
+ATTRIBUTE BINDING is used to bind to HTML elements attributes 
 
 
