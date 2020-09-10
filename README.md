@@ -11,3 +11,7 @@ INTERPOLATION:Interpolation is one way of data binding that is used to transfer 
 It uses curly braces,inside which the property/expression is written.
 
 
+PROPERTY BINDING: Property Binding is also one-way data binding technique.
+we bind property of DOM element to a field which is a defined proprty in our component TS code
+
+
